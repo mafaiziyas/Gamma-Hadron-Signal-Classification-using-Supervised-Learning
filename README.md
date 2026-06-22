@@ -31,3 +31,4 @@ Space telescopes pick up a lot of "noise" from the sky. This project uses Machin
 ### **Key Insights**
 **Winning Model:** The SVM classifier achieved an **86% accuracy** rate, proving to be a strong tool for this type of data.
 * **High Reliability:** By focusing on the **F1-score** (highest for SVM: 0.85), I ensured the model was balanced and didn't just guess, making it more dependable for scientists.
+**Winning Model:** EDA showed that observations with lower fLength and fSize values are associated with a 99% likelihood of belonging to the gamma class, suggesting that these variables are highly discriminative features for gamma particle detection.
